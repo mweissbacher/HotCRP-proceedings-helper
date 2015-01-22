@@ -1,0 +1,22 @@
+<conference_paper publication_type="full_text">
+    <contributors>
+        <person_name sequence="first" contributor_role="author">
+            <given_name>FIRST AUTHOR FIRST NAME</given_name>
+            <surname>FIRST AUTHOR LAST NAME</surname>
+        </person_name>
+        <person_name sequence="additional" contributor_role="author">
+            <given_name>ADDITIONAL AUTHOR FIRST NAME</given_name>
+            <surname>ADDITIONAL AUTHOR LAST NAME</surname>
+        </person_name>
+    </contributors>
+    <titles>
+        <title>PAPER TITLE</title>
+    </titles>
+    <publication_date>
+        <year>2015</year>
+    </publication_date>
+    <doi_data>
+        <doi>10.14722/ndss.2015.23XXX</doi>
+        <resource>http://www.internetsociety.org/doc/TBD</resource>
+    </doi_data>
+</conference_paper>
