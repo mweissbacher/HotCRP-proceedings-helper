@@ -92,8 +92,8 @@ class Hotcrp_paperlist_export:
                 given_name = etree.Element("given_name")
                 surname = etree.Element("surname")
 
-                given_name.text = author['ln']
-                surname.text = author['fn']
+                given_name.text = author['fn']
+                surname.text = author['ln']
 
                 if first_author:
                     person_name.attrib['sequence'] = "first"
